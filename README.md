@@ -12,7 +12,7 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Pan, H.; Li, X.; Ge, H.; Wang, L.; Shi, C. A Hierarchical Coarse–Fine Adaptive Fusion Network for the Joint Classification of Hyperspectral and LiDAR Data. Remote Sens. 2024, 16, 4029.
+Pan, H.; Li, X.; Ge, H.; Wang, L.; Shi, C. A Hierarchical Coarse–Fine Adaptive Fusion Network for the Joint Classification of Hyperspectral and LiDAR Data. J. Franklin Inst. 361, 106973.
 
      @article{pan2024hierarchical,
       title={A Hierarchical Coarse--Fine Adaptive Fusion Network for the Joint Classification of Hyperspectral and LiDAR Data},
