@@ -23,4 +23,4 @@ Pan, H.; Li, X.; Ge, H.; Wang, L.; Shi, C. A Hierarchical Coarse–Fine Adaptive
       pages={4029},
       year={2024},
       publisher={MDPI}
-}
+
